@@ -6,7 +6,7 @@
 
 * **Developer(s):** branescan
 * **Release Date:** TBA
-* **Genre(s):** Exploration, survival, simulation, horror
+* **Genre(s):** Top-down shooter
 * **Links:** TBA
 
 ## What is this game?
