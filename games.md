@@ -3,7 +3,7 @@
 | TITLE                      | STATUS      | DATE |
 |----------------------------|-------------|--------------------|
 | The Real You | In progress | N/A |
-| Unnamed Virtual Pet Project | In Progress | N/A |
+| Unnamed Virtual Pet Project | Ongoing | N/A |
 | [Knights of the Force](https://www.roblox.com/games/14258959862/ALPHA-Knights-of-the-Force) | Suspended | N/A |
 
 ## Project status meanings
